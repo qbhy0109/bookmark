@@ -1,0 +1,3 @@
+https://github.com/jerry1900/faceRecognition
+https://github.com/seathiefwang/FaceRecognition-tensorflow
+https://github.com/bystc/FaceRecognition
