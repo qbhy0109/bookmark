@@ -2,3 +2,4 @@ https://github.com/jerry1900/faceRecognition
 https://github.com/seathiefwang/FaceRecognition-tensorflow
 https://github.com/bystc/FaceRecognition
 https://github.com/chengxy-nds/ArcSoftFaceDemo
+https://www.cnblogs.com/xp12345/p/9818435.html
